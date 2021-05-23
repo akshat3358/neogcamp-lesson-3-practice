@@ -1,0 +1,18 @@
+body{
+    color: rebeccapurple;
+}
+h1{
+    color: rgb(red, green, blue);
+}
+h2{
+    color: springgreen;
+}
+h3{
+    color: yellow;
+}
+#Lib-header {
+    color: brown;
+}
+.para {
+    color: chartreuse;
+}
