@@ -2,10 +2,12 @@
 
 :root{
     --primary-color: #4ADE80;
+    --off-white:#F1F5F9;
     --dark-grey: #1F2937;
 }
 body{
     font-family: 'Comfortaa', sans-serif;
+    margin: 0px;
 }
 
 hr {
@@ -80,10 +82,39 @@ hr {
 }
 
 .hero .hero-heading {
+    text-align: center;
     padding-top: 1rem;
     color: var(--dark-grey);
 }
 
 .hero .hero-heading .heading-inverted {
     color: var(--primary-color);
+}
+
+.section {
+    padding: 2rem;
+}
+
+.section h1 {
+    text-align:center;
+}
+
+.ow {
+    background-color: var(--off-white);
+}
+
+.footer{
+    background-color: var(--primary-color);
+    padding: 2rem 1rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+}
+
+.footer .link {
+    color: white;
+}
+
+.footer ul {
+    padding-inline-start: 0px;
 }
