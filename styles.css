@@ -1,18 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap');
 body{
-    color: rebeccapurple;
-}
-h1{
-    color: rgb(red, green, blue);
-}
-h2{
-    color: springgreen;
-}
-h3{
-    color: yellow;
-}
-#Lib-header {
-    color: brown;
-}
-.para {
-    color: chartreuse;
+    font-family: 'Comfortaa', sans-serif;
 }
